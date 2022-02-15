@@ -1,0 +1,19 @@
+Following,Patrick,adding to an empty list
+Following,Nick,adding before the first node
+Following,Vera,adding after the last node
+Following,Sam,adding somewhere in the middle
+Following,Nick,adding someone already in the first node
+Following,Sam,adding someone already in the middle of the list
+Following,Vera,adding someone already in the last node
+Search,ear,finding a key with no match
+Search,ick,finding match in the first node and multiple matches
+Search,era,finding match at the last node
+Search,Pat,finding match in the middle of the list
+Unfollow,Bubble Bass,removing a username smaller than the first node
+Unfollow,Plankton,removing a username not in the list
+Unfollow,Zebra,removing a username larger than the last node
+Unfollow,Nick,removing the first node
+Unfollow,Sam,removing somewhere in the middle
+Unfollow,Vera,removing the last node
+Unfollow,Patrick,removing the only node
+Unfollow,Spongebob,removing from an empty list
